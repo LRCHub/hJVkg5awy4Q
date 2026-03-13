@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "FreeGeo",
+  "base_artist": "AZKi",
+  "createdAt": "2026-03-13T16:16:54.934245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FreeGeo",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/01_FreeGeo_AZKi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FreeGeo",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_FreeGeo_AZKi.txt"
+    }
+  ]
+}
